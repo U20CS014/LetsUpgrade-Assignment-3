@@ -1,5 +1,5 @@
-# LetsUpgrade-Assignment-2
-LestsUpgrade Day-2
+# LetsUpgrade-Assignment-3
+LestsUpgrade Day-3
 Course:Build Responsive Website ZERO TO HERO
 Name:Aayush Dude
 College:SVNIT
